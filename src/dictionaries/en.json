@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "fleet": "Fleet",
+    "industries": "Industries",
+    "quote": "Get Quote",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "getQuote": "Request a Quote",
+    "contactUs": "Contact Us",
+    "callNow": "Call Now",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "language": "العربية"
+  },
+  "hero": {
+    "eyebrow": "Trusted Transport Partner — Kingdom of Saudi Arabia",
+    "title": "Powering KSA's Industries, One Delivery at a Time",
+    "subtitle": "Jameela hussain delivers Aramco fuels, water, and construction materials across the Kingdom with a premium fleet of Mercedes Actros tankers.",
+    "cta1": "Request a Quote",
+    "cta2": "Our Services"
+  },
+  "stats": {
+    "fleet": "Modern Trucks",
+    "years": "Years of Trust",
+    "delivered": "Liters Delivered",
+    "coverage": "KSA Coverage"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive transport & logistics solutions",
+    "fuel": {
+      "title": "Fuel Transport",
+      "desc": "Petrol 91, 95, Diesel and Kerosene from Aramco terminals to companies and petrol stations across KSA."
+    },
+    "water": {
+      "title": "Water Tanker Delivery",
+      "desc": "Reliable potable & industrial water delivery via certified water tanker fleet."
+    },
+    "rental": {
+      "title": "Tanker Rental",
+      "desc": "Diesel, benzine, and water tankers available for short and long-term rental."
+    },
+    "construction": {
+      "title": "Construction Materials",
+      "desc": "Sand, aggregate, cement, and bulk material delivery to building sites."
+    },
+    "bulk": {
+      "title": "Bulk Logistics",
+      "desc": "Heavy-duty Mercedes MP4 & MP5 trucks for long-haul bulk transport."
+    },
+    "emergency": {
+      "title": "24/7 Emergency Supply",
+      "desc": "Round-the-clock dispatch for urgent fuel and water needs."
+    }
+  },
+  "about": {
+    "title": "About Jameela Hussain Transport",
+    "lead": "A Saudi-owned transport company built on safety, reliability, and the highest fleet standards.",
+    "p1": "Jameela Hussain is a Saudi Arabian transport and logistics company specializing in the safe transport of petroleum products, water supply, and construction materials. We operate a modern fleet of Mercedes-Benz Actros MP4 and MP5 tankers that meet the strictest Aramco safety standards.",
+    "p2": "From Aramco terminals to petrol stations (mahatat), industrial sites, and construction projects across the Kingdom, our drivers and dispatch team work around the clock to keep your operations moving.",
+    "mission": "Mission",
+    "missionText": "To deliver fuel, water, and materials with uncompromising safety and on-time precision.",
+    "vision": "Vision",
+    "visionText": "To be the most trusted private transport partner of Aramco and KSA's industrial sector.",
+    "values": "Values",
+    "valuesText": "Safety first, integrity, reliability, and partnership."
+  },
+  "fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Premium Mercedes-Benz Actros tankers built for the Kingdom",
+    "mp5": {
+      "title": "Mercedes Actros MP5",
+      "desc": "Latest-generation tractor heads with advanced safety, telematics, and fuel efficiency."
+    },
+    "mp4": {
+      "title": "Mercedes Actros MP4",
+      "desc": "Proven workhorse for long-haul fuel and water transport across Saudi Arabia."
+    },
+    "fuelTanker": {
+      "title": "Fuel Tankers",
+      "desc": "Multi-compartment tankers compliant with Aramco loading standards."
+    },
+    "waterTanker": {
+      "title": "Water Tankers",
+      "desc": "Stainless-steel potable water tankers and large-capacity industrial units."
+    }
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "Trusted by leaders across Saudi Arabia",
+    "aramco": "Saudi Aramco Supply Chain",
+    "stations": "Petrol Stations (Mahatat)",
+    "construction": "Construction & Contracting",
+    "industrial": "Industrial & Manufacturing",
+    "municipal": "Municipal Water Supply",
+    "events": "Events & Remote Sites"
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Tell us about your transport needs and we'll respond within 24 hours.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company name",
+    "service": "Service required",
+    "servicePlaceholder": "Select a service",
+    "message": "Details of your request",
+    "success": "Quote request received — we'll contact you shortly.",
+    "error": "Something went wrong. Please try again."
+  },
+  "careers": {
+    "title": "Careers at Jameela Hussain Transport",
+    "subtitle": "Join a team that keeps the Kingdom moving.",
+    "intro": "We are always looking for experienced drivers, dispatchers, mechanics, and operations staff. Apply below.",
+    "position": "Position applying for",
+    "experience": "Years of experience",
+    "coverLetter": "Cover letter / message",
+    "success": "Application received — thank you!"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're available 24/7 for urgent requests.",
+    "address": "Riyadh, Kingdom of Saudi Arabia",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Working Hours",
+    "hoursValue": "Sun – Thu: 7:00 – 19:00 · 24/7 Dispatch",
+    "formTitle": "Send us a message",
+    "subject": "Subject",
+    "success": "Message sent — we'll be in touch soon."
+  },
+  "footer": {
+    "tagline": "Premium transport & logistics across the Kingdom of Saudi Arabia.",
+    "quick": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "title": "Jameela Hussain Transport"
+  }
+}
