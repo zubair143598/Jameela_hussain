@@ -5,7 +5,7 @@ import Image from 'next/image';
 const Fleet = ({locale, dict}) => {
    const items = [
     { key: "mp5", img: "/hero-truck.jpg" }, { key: "mp4", img: "/fleet-aramco.jpg" },
-    { key: "fuelTanker", img: "/construction.jpg" }, { key: "waterTanker", img: "/Water-tanker.jpg" },
+    { key: "fuelTanker", img: "/construction.jpg" }, { key: "waterTanker", img: "/water-tanker.jpg" },
   ] 
   return (
     <div className="pt-32 pb-20">
