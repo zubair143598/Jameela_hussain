@@ -28,6 +28,8 @@ export default function CareersForm({
   } = useForm({
     resolver: zodResolver(careerSchema),
 
+     mode: "onBlur",
+
     defaultValues: {
       name: "",
       email: "",

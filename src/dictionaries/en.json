@@ -144,5 +144,140 @@
     "contact": "Contact",
     "rights": "All rights reserved.",
     "title": "Jameela Hussain Transport"
+  },
+
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated",
+    "date": "January 2026",
+
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "These Terms of Service govern your use of the Sherika website and any transportation, logistics, fuel transportation, water delivery, tanker rental, and related services offered by Sherika within the Kingdom of Saudi Arabia."
+      },
+
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By accessing our website, requesting quotations, submitting forms, or using our services, you agree to be bound by these Terms of Service and all applicable laws and regulations of the Kingdom of Saudi Arabia."
+      },
+
+      "services": {
+        "title": "Services",
+        "content": "Sherika provides transportation and logistics solutions including but not limited to fuel transportation, water tanker delivery, tanker rental services, construction material transport, bulk logistics services, and emergency transportation support."
+      },
+
+      "quotes": {
+        "title": "Quotes and Pricing",
+        "content": "All quotations provided through the website are estimates only and do not constitute a binding agreement until confirmed by Sherika."
+      },
+
+      "customer": {
+        "title": "Customer Responsibilities",
+        "content": "Customers agree to provide accurate information when requesting services, submitting forms, or communicating with Sherika."
+      },
+
+      "safety": {
+        "title": "Safety and Compliance",
+        "content": "Sherika operates under applicable safety standards and industry regulations. Services may be delayed, suspended, or canceled when safety concerns or regulatory restrictions arise."
+      },
+
+      "website": {
+        "title": "Website Usage",
+        "content": "Users may not submit false information, attempt unauthorized access, use the website for unlawful purposes, or interfere with website operations."
+      },
+
+      "ip": {
+        "title": "Intellectual Property",
+        "content": "All website content, branding, logos, images, and text remain the property of Sherika unless otherwise stated."
+      },
+
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "Sherika shall not be liable for indirect, incidental, or consequential damages arising from use of the website or services."
+      },
+
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "Sherika reserves the right to update these Terms of Service at any time."
+      },
+
+      "law": {
+        "title": "Governing Law",
+        "content": "These Terms shall be governed by the laws and regulations of the Kingdom of Saudi Arabia."
+      },
+
+      "contact": {
+        "title": "Contact Information",
+        "content": "For questions regarding these Terms, please contact Sherika through the contact information provided on our website."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "date": "January 2026",
+
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "Sherika respects your privacy and is committed to protecting your personal information."
+      },
+
+      "collection": {
+        "title": "Information We Collect",
+        "content": "We may collect your name, email address, phone number, company name, job application information, quote requests, contact messages, and website usage data."
+      },
+
+      "usage": {
+        "title": "How We Use Information",
+        "content": "Information may be used to respond to inquiries, provide quotations, process applications, improve services, and comply with legal obligations."
+      },
+
+      "security": {
+        "title": "Data Storage and Security",
+        "content": "We implement reasonable technical and organizational measures to protect personal information."
+      },
+
+      "sharing": {
+        "title": "Data Sharing",
+        "content": "Sherika does not sell personal information. Information may be shared when required by law or necessary for business operations."
+      },
+
+      "careers": {
+        "title": "Job Applications",
+        "content": "Information submitted through career applications is used solely for recruitment and employment evaluation."
+      },
+
+      "cookies": {
+        "title": "Cookies and Analytics",
+        "content": "Our website may use cookies and analytics tools to improve user experience and monitor website performance."
+      },
+
+      "thirdParty": {
+        "title": "Third-Party Services",
+        "content": "We may use third-party providers for hosting, analytics, communications, and website operations."
+      },
+
+      "retention": {
+        "title": "Data Retention",
+        "content": "Personal information is retained only as long as necessary for legal, operational, and business purposes."
+      },
+
+      "rights": {
+        "title": "Your Rights",
+        "content": "Subject to applicable Saudi laws, you may request access, correction, or deletion of your personal information where legally permitted."
+      },
+
+      "updates": {
+        "title": "Policy Updates",
+        "content": "We may update this Privacy Policy periodically."
+      },
+
+      "contact": {
+        "title": "Contact Us",
+        "content": "For privacy-related inquiries, please contact Sherika using the details available on our website."
+      }
+    }
   }
 }
