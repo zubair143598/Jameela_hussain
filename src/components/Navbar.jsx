@@ -43,7 +43,7 @@ const Navbar = ({ locale, t }) => {
     <header className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${scrolled ? "bg-background/90 backdrop-blur-lg border-b border-border" : "bg-transparent"}`}>
       <div className="container-tight flex items-center justify-between h-18 py-3">
         <Link href={`/${locale}`} className="flex items-center gap-2">
-          <Image src='/logo4.png' alt="Sherika" className="object-contain" width={140} height={140} priority />
+          <Image src='/logo4.png' alt="Jameela_hussain_logo" className="object-contain" width={140} height={140} priority />
           {/* <span className="text-xl font-bold tracking-wider text-gradient-gold hidden sm:inline">SHERIKA</span> */}
         </Link>
 

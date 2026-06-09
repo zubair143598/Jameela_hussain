@@ -34,7 +34,7 @@ export default function HomeSection({ locale, dict }) {
         <div className="absolute inset-0">
           <Image
             src="/hero-truck.jpg"
-            alt="Sherika Mercedes Actros tanker on Saudi highway"
+            alt="Jameela Hussain Mercedes Actros tanker on Saudi highway"
             fill
             priority
             className="object-cover"
@@ -144,7 +144,7 @@ export default function HomeSection({ locale, dict }) {
           <div>
             <Image
               src="/fleet-aramco.jpg"
-              alt="Sherika fleet at Aramco terminal"
+              alt="Jameela Hussain fleet at Aramco terminal"
               className="rounded-2xl shadow-elegant w-full"
               width={800}
               height={600}

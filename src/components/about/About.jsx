@@ -13,7 +13,7 @@ const About = ({locale, dict}) => {
           <p className="text-xl text-muted-foreground leading-relaxed">{dict.about.lead}</p>
         </div>
 
-        <Image src="/fleet-aramco.jpg" alt="Sherika fleet" className="rounded-2xl shadow-elegant w-full mb-14" loading="lazy" width={1600} height={900} />
+        <Image src="/fleet-aramco.jpg" alt="Jameela Hussain fleet" className="rounded-2xl shadow-elegant w-full mb-14" loading="lazy" width={1600} height={900} />
 
         <div className="grid lg:grid-cols-2 gap-10 mb-16">
           <p className="text-muted-foreground leading-loose text-lg">{dict.about.p1}</p>

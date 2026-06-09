@@ -11,8 +11,8 @@ const Footer = ({ locale, t }) => {
           <div className="flex items-center gap-1">
             <Image
               src="/logo4.png"
-              alt="Sherika"
-              className=""
+              alt="Jameela_hussain_logo"
+              className="object-contain"
               width={150}
               height={100}
             />
@@ -125,7 +125,7 @@ const Footer = ({ locale, t }) => {
       <div className="border-t border-border py-6">
         <div className="container-tight flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-muted-foreground">
           <span>
-            © {new Date().getFullYear()} Sherika. {t.footer.rights}
+            © {t.footer.rights}
           </span>
           <span className="flex items-center gap-2">
             <Truck className="w-3.5 h-3.5 text-primary" /> Kingdom of Saudi
